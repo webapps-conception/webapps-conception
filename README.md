@@ -3,7 +3,8 @@
 ⚙️ [Développeur Full Stack](https://www.webapps-conception.fr/#developer)
 ✍️ [Blog](https://www.webapps-conception.fr/blog)
 🤙🏻 [À propos de Rudy TUANI](https://www.webapps-conception.fr/about)
-✉️ [Contactez-nous](https://www.webapps-conception.fr/#contact)
+📫 [Contactez-nous](https://www.webapps-conception.fr/#contact)
+⚡ [Devis gratuit](https://www.webapps-conception.fr/devis)
 
 <!--
 **webapps-conception/webapps-conception** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
