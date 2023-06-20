@@ -1,6 +1,6 @@
 🏠 [Web Apps Conception](https://www.webapps-conception.fr)
 🏤 [Services](https://www.webapps-conception.fr/#services)
-⚙️ [Développeur Full Stack]([https://www.webapps-conception.fr/#services](https://www.webapps-conception.fr/#developer))
+⚙️ [Développeur Full Stack](https://www.webapps-conception.fr/#developer)
 ✍️ [Blog](https://www.webapps-conception.fr/blog)
 🤙🏻 [Blog](https://www.webapps-conception.fr/about)
 
